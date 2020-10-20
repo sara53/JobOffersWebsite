@@ -1,0 +1,139 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title>@Page.Title</title>
+    <meta charset="utf-8">
+    <link href="~/Content/rtl/bootstrap.min.css" rel="stylesheet" />
+    <link href="~/Content/all.min.css" rel="stylesheet" />
+    <link href="~/Content/Site.css" rel="stylesheet" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+
+</head>
+<body>
+    <!--Navbar-->
+    <nav class="navbar navbar-expand-lg navbar-light bg-light fixed-top">
+
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarTogglerDemo02" aria-controls="navbarTogglerDemo02" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+
+        <div class="collapse navbar-collapse" id="navbarTogglerDemo02">
+            <ul class="navbar-nav mr-auto mt-2 mt-lg-0">
+                <li class="nav-item">
+                    <a class="nav-link" href="#">
+                        <i class="fas fa-user"></i>
+                        تسجيل الدخول
+                    </a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="#">
+                        <i class="fas fa-lock"></i>
+                        اشتراك
+                    </a>
+                </li>
+            </ul>
+
+            <ul class="navbar-nav mr-auto mt-2 mt-lg-0">
+                <li class="nav-item active">
+
+                    <a class="nav-link" href="#">
+                        الرئيسه
+                        <i class="fas fa-home"></i>
+
+
+                    </a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="#">
+                        اصناف العروض
+                        <i class="fas fa-folder-open"></i>
+
+                    </a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="#">
+                        حول الموقع
+                        <i class="fas fa-info-circle"></i>
+
+                    </a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="#">
+                        اتصل بنا
+                        <i class="fas fa-envelope"></i>
+
+                    </a>
+                </li>
+
+            </ul>
+            <a class="navbar-brand">
+                <img src="~/images/1.png" />
+            </a>
+
+
+        </div>
+    </nav>
+
+    @RenderBody()
+
+    <!--Start Footer-->
+<footer class="myfooter navbar fixed-bottom pt-3">
+    <div class="container">
+        <div class="row mb-2">
+            <div class="col-md-4">
+                <h3>
+                    <i class="fa fa-question-circle"></i>
+                    من نحن
+
+                </h3>
+                <p>اهلا بالساده الزوار فى موقع التوظيف العربى يسعدنا متابعتكم</p>
+
+            </div>
+            <div class="col-md-4">
+                <h3>
+
+                    <i class="fa fa-chart-area"></i>
+                    روابط هامه
+                </h3>
+                <ul>
+                    <li><a href="#">وظائف للقطاع العام</a></li>
+                    <li><a href="#">وظائف للقطاع الخاص</a></li>
+                    <li><a href="#">وظائف خارج البلاد</a></li>
+                    <li><a href="#">وظائف متنوعه</a></li>
+                </ul>
+
+            </div>
+            <div class="col-md-4">
+                <h3>
+                    <i class="fa fa-envelope"></i>
+                    تواصل معنا
+
+
+                </h3>
+                <ul>
+                    <li><a href="#">صفحتنا على الفيس بوك</a></li>
+                    <li><a href="#">تابعنا على تويتر</a></li>
+                    <li><a href="#">شاهدنا على يوتيوب</a></li>
+                    <li><a href="#">اترك لنا رساله</a></li>
+                </ul>
+            </div>
+
+        </div>
+
+
+    </div>
+    <div class="col-12 subfooter text-center pt-3 font-weight-bold">
+        <p>جميع الحقوق محفوظه لدى موقع التوظيف 2020</p>
+    </div>
+</footer>
+    <!--End Of Footer-->
+    <script src="~/Scripts/jquery-3.0.0.min.js"></script>
+    <script src="~/Scripts/bootstrap.min.js"></script>
+    <script src="~/Scripts/all.js"></script>
+    <!--CDN-->
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.6/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
+    
+</body>
+</html>
