@@ -110,7 +110,6 @@ E:\VS_Projects\Job Offers Website\Job Offers\bin\System.Web.Webpages.Razor.xml
 E:\VS_Projects\Job Offers Website\Job Offers\bin\System.Web.Helpers.xml
 E:\VS_Projects\Job Offers Website\Job Offers\bin\System.Web.Mvc.xml
 E:\VS_Projects\Job Offers Website\Job Offers\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-E:\VS_Projects\Job Offers Website\Job Offers\obj\Debug\Job Offers.csprojAssemblyReference.cache
 E:\VS_Projects\Job Offers Website\Job Offers\obj\Debug\Job Offers.csproj.CoreCompileInputs.cache
 E:\VS_Projects\Job Offers Website\Job Offers\obj\Debug\Job Offers.csproj.CopyComplete
 E:\VS_Projects\Job Offers Website\Job Offers\obj\Debug\Job Offers.dll
@@ -122,3 +121,26 @@ E:\VS_Projects\Job Offers Website\Job Offers\bin\WebGrease.dll
 E:\VS_Projects\Job Offers Website\Job Offers\bin\Antlr3.Runtime.pdb
 E:\VS_Projects\Job Offers Website\Job Offers\bin\Newtonsoft.Json.xml
 E:\VS_Projects\Job Offers Website\Job Offers\bin\System.Web.Optimization.xml
+E:\VS_Projects\Job Offers Website\Job Offers\bin\EntityFramework.dll
+E:\VS_Projects\Job Offers Website\Job Offers\bin\EntityFramework.SqlServer.dll
+E:\VS_Projects\Job Offers Website\Job Offers\bin\Microsoft.AspNet.Identity.Core.dll
+E:\VS_Projects\Job Offers Website\Job Offers\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\VS_Projects\Job Offers Website\Job Offers\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\VS_Projects\Job Offers Website\Job Offers\bin\Microsoft.Owin.dll
+E:\VS_Projects\Job Offers Website\Job Offers\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\VS_Projects\Job Offers Website\Job Offers\bin\Microsoft.Owin.Security.Cookies.dll
+E:\VS_Projects\Job Offers Website\Job Offers\bin\Microsoft.Owin.Security.dll
+E:\VS_Projects\Job Offers Website\Job Offers\bin\Microsoft.Owin.Security.Google.dll
+E:\VS_Projects\Job Offers Website\Job Offers\bin\Microsoft.Owin.Security.OAuth.dll
+E:\VS_Projects\Job Offers Website\Job Offers\bin\Owin.dll
+E:\VS_Projects\Job Offers Website\Job Offers\bin\EntityFramework.xml
+E:\VS_Projects\Job Offers Website\Job Offers\bin\EntityFramework.SqlServer.xml
+E:\VS_Projects\Job Offers Website\Job Offers\bin\Microsoft.AspNet.Identity.Core.xml
+E:\VS_Projects\Job Offers Website\Job Offers\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\VS_Projects\Job Offers Website\Job Offers\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\VS_Projects\Job Offers Website\Job Offers\bin\Microsoft.Owin.xml
+E:\VS_Projects\Job Offers Website\Job Offers\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\VS_Projects\Job Offers Website\Job Offers\bin\Microsoft.Owin.Security.xml
+E:\VS_Projects\Job Offers Website\Job Offers\bin\Microsoft.Owin.Security.Cookies.xml
+E:\VS_Projects\Job Offers Website\Job Offers\bin\Microsoft.Owin.Security.Google.xml
+E:\VS_Projects\Job Offers Website\Job Offers\bin\Microsoft.Owin.Security.OAuth.xml
